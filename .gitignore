@@ -1,0 +1,48 @@
+ide/
+plugins/
+settings.json
+
+# Cache
+cache/
+
+# Downloads
+downloads/
+
+# Temporary files
+shell-snapshots/
+backups/
+debug/
+sessions/
+
+# Analytics and telemetry
+statsig/
+telemetry/
+
+# Personal tracking
+todos/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+*.logs
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Node/Python (if applicable)
+node_modules/
+__pycache__/
+*.pyc
